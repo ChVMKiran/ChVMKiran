@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
-<img src="https://i.pinimg.com/originals/3b/f4/30/3bf430ae22943cf5da5879bee88a03e0.gif">
-<h1 align="center">Hi 👋, I'm Ch V M Kiran </h1>
+<p align="center"><img src="header.gif" width="600px"></p>
+<h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Kiran</span> here </h1>
 <h3 align="center">Coder&nbsp; | &nbsp; Developer&nbsp; |&nbsp; B.Tech 3rd Year</h3>
 <br>
 <p align="center">
@@ -53,10 +53,13 @@
 
 ### 💻 Problem Solving Platforms
 
-- 🟢 **LeetCode** – Solving DSA & problem-solving challenges
-- 🔵 **CodeChef** – Competitive programming practice
-- 🟢 **GeeksforGeeks** – Daily DSA & concept sharpening
-- ⚪ **HackerRank** – Python, SQL, and logic building
+- 🟡 **LeetCode** – Regularly solving DSA problems to improve coding skills.
+- 🟤 **CodeChef** – Participating in contests and practicing competitive programming.
+- ⚪ **GeeksforGeeks** – Expertising DSA through topic-wise problems.
+- 🟢 **HackerRank** – Practicing structured problem sets and earning certifications.
+- 🔵 **Codeforces** – Competing in live rated contests to sharpen problem-solving speed.
+
+
 
 🧠 Solving problems every day to sharpen logic, algorithms, and time-space complexity understanding.
 
@@ -64,27 +67,37 @@
 ### 🧠 My Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/VENKATA_MANIKANTA_KIRAN_CH" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  
-  <a href="https://geeksforgeeks.org/user/chvmkiran639" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2D8D45?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  
-  <a href="https://www.codechef.com/users/chvmkiran" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-68270d?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/chvmkiran639" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1c9a0f?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  
-  <a href="https://www.codeforces.com/profile/chvmkiran" target="_blank">
-     <img src="https://img.shields.io/badge/Codeforces-3B5998?style=for-the-badge&logo=Codeforces&logoColor=white">
-  </a>
-</p>
-
+      <a href="https://leetcode.com/VENKATA_MANIKANTA_KIRAN_CH" target="_blank">
+        <img
+          src="https://img.shields.io/badge/LeetCode-1a1c1b?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+          alt="LeetCode"
+        />
+      </a>
+      <a href="https://geeksforgeeks.org/user/chvmkiran639" target="_blank">
+        <img
+          src="https://img.shields.io/badge/GeeksforGeeks-1a1c1b?style=for-the-badge&logo=geeksforgeeks&logoColor=2D8D45"
+          alt="GeeksforGeeks"
+        />
+      </a>
+      <a href="https://www.codechef.com/users/chvmkiran" target="_blank">
+        <img
+          src="https://img.shields.io/badge/CodeChef-1a1c1b?style=for-the-badge&logo=codechef&logoColor=white"
+          alt="CodeChef"
+        />
+      </a>
+      <a href="https://www.hackerrank.com/profile/chvmkiran639" target="_blank">
+        <img
+          src="https://img.shields.io/badge/HackerRank-1a1c1b?style=for-the-badge&logo=hackerrank&logoColor=1c9a0f"
+          alt="HackerRank"
+        />
+      </a>
+      <a href="https://www.codeforces.com/profile/chvmkiran" target="_blank">
+        <img
+          src="https://img.shields.io/badge/Codeforces-1a1c1b?style=for-the-badge&logo=Codeforces&logoColor=3B5998"
+          alt="Codeforces"
+        />
+      </a>
+    </p>
 
 
 ---
