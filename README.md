@@ -1,5 +1,5 @@
 <!-- GitHub Profile README -->
-<p align="center"><img src="gojo.gif" width="600px"></p>
+<p align="center"><img src="header.gif" width="600px"></p>
 <h1 align="center">Hello there 👋, <span style="font-family:monospace; font-size:1.5em">Kiran</span> here </h1>
 <h3 align="center">Coder&nbsp; | &nbsp; Developer&nbsp; |&nbsp; B.Tech 3rd Year</h3>
 <br>
