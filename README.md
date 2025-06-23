@@ -8,7 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChVMKiran&label=Profile+views&color=edba02&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=ChVMKiran&label=Profile+views&color=02daed&style=flat" alt="profile-views" />
+</p>
+
+<p align = "center">
+  <a href="https://drive.google.com/file/d/1ndgsXp6fjYBjPoNLtwl9ahjtLJ5Y8H0U/view?usp=sharing">
+<!--     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-informational?style=for-the-badge&color=02daed" alt="Resume"/> -->
+    <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-02daed" alt="Resume"/>
+  </a>
 </p>
 
 ---
@@ -32,9 +39,9 @@
 ### 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChVMKiran&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChVMKiran&show_icons=true&theme=react" alt="GitHub stats" />
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chvmkiran&theme=dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chvmkiran&theme=react&hide_border=false">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -45,7 +52,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChVMKiran&layout=compact&theme=dark" alt="langauges"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChVMKiran&layout=compact&theme=react" alt="langauges"/>
 </p>
 
 ---
